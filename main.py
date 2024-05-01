@@ -34,7 +34,9 @@ print()
 main = input("Hangi Seçeneği Seçiyorsunuz: ")
 
 if main == "1":
-
+os.system("ls")
+os.system("clear")
+os.system("
 elif main == "2":
 
 elif main == "3":
