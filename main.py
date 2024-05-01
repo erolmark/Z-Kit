@@ -38,13 +38,13 @@ os.system("ls")
 os.system("clear")
 os.system("Exxen.checker.py")
 else:
-    print("geçersiz Seçenek!")
+    print("geçersiz Seçenek")
 elif main == "2":
 os.system("ls")
 os.system("clear")
 os.system("ip_sorgu.py")
 else:
-    print("geçersiz seçenek!")
+    print("geçersiz seçenek")
 elif main == "3":
 os.system("ls")
 os.system("clear")
@@ -52,5 +52,14 @@ os.system("bdfd_gen.py")
 else:
     print("geçersiz seçenek")
 elif main == "4":
-
+os.system("ls")
+os.system("clear")
+os.system("tiktok.py")
+else:
+    print("geçersiz seçenek")
 elif main == "5":
+os.system("ls")
+os.system("clear")
+os.system("igtok.py")
+else:
+print("geçersiz seçenek")
