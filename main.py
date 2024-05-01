@@ -33,25 +33,19 @@ print()
 print()
 
 main = input("Hangi Seçeneği Seçiyorsunuz: ")
-
 if main == "1":
-    os.system("ls")
     os.system("clear")
     os.system("Exxen_checker.py")
 elif main == "2":
-    os.system("ls")
     os.system("clear")
     os.system("ip_sorgu.py")
 elif main == "3":
-    os.system("ls")
     os.system("clear")
     os.system("bdfd_gen.py")
 elif main == "4":
-    os.system("ls")
     os.system("clear")
     os.system("tiktok.py")
 elif main == "5":
-    os.system("ls")
     os.system("clear")
     os.system("igtok.py")
 else:
