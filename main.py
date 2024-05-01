@@ -35,18 +35,18 @@ print()
 main = input("Hangi Seçeneği Seçiyorsunuz: ")
 if main == "1":
     os.system("clear")
-    os.system("Exxen_checker.py")
+    os.system("python Exxen_checker.py")
 elif main == "2":
     os.system("clear")
-    os.system("ip_sorgu.py")
+    os.system("python ip_sorgu.py")
 elif main == "3":
     os.system("clear")
-    os.system("bdfd_gen.py")
+    os.system("python bdfd_gen.py")
 elif main == "4":
     os.system("clear")
-    os.system("tiktok.py")
+    os.system("python tiktok.py")
 elif main == "5":
     os.system("clear")
-    os.system("igtok.py")
+    os.system("python igtok.py")
 else:
     print("Geçersiz seçenek")
