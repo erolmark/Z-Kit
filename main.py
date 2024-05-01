@@ -31,35 +31,28 @@ print(Renkler.BLUE + "[4]Tiktok İzlenme Tool")
 print(Renkler.RED + "[5]İnsta & Tiktok Hile")
 print()
 print()
+
 main = input("Hangi Seçeneği Seçiyorsunuz: ")
 
 if main == "1":
-os.system("ls")
-os.system("clear")
-os.system("Exxen.checker.py")
-else:
-    print("geçersiz Seçenek")
+    os.system("ls")
+    os.system("clear")
+    os.system("Exxen.checker.py")
 elif main == "2":
-os.system("ls")
-os.system("clear")
-os.system("ip_sorgu.py")
-else:
-    print("geçersiz seçenek")
+    os.system("ls")
+    os.system("clear")
+    os.system("ip_sorgu.py")
 elif main == "3":
-os.system("ls")
-os.system("clear")
-os.system("bdfd_gen.py")
-else:
-    print("geçersiz seçenek")
+    os.system("ls")
+    os.system("clear")
+    os.system("bdfd_gen.py")
 elif main == "4":
-os.system("ls")
-os.system("clear")
-os.system("tiktok.py")
-else:
-    print("geçersiz seçenek")
+    os.system("ls")
+    os.system("clear")
+    os.system("tiktok.py")
 elif main == "5":
-os.system("ls")
-os.system("clear")
-os.system("igtok.py")
+    os.system("ls")
+    os.system("clear")
+    os.system("igtok.py")
 else:
-print("geçersiz seçenek")
+    print("Geçersiz seçenek")
