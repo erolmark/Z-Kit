@@ -42,8 +42,12 @@ else:
 elif main == "2":
 os.system("ls")
 os.system("clear")
-
+os.system("ip_sorgu.py")
+else:
+    print("geçersiz seçenek!")
 elif main == "3":
+os.system("ls")
+os.system("clear")
 
 elif main == "4":
 
