@@ -36,8 +36,12 @@ main = input("Hangi Seçeneği Seçiyorsunuz: ")
 if main == "1":
 os.system("ls")
 os.system("clear")
-os.system("
+os.system("Exxen.checker.py")
+else:
+    print("geçersiz Seçenek!")
 elif main == "2":
+os.system("ls")
+os.system("clear")
 
 elif main == "3":
 
