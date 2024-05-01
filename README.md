@@ -1,3 +1,6 @@
+# Daha Fazlası İçin Discord Adresimiz:
+https://discord.com/invite/ZGBZ6cm9bF
+
 # Bu Tool Zindan Team Tarafindan Yapıldı.
 Tool 5 kısımdan oluşur 
 
