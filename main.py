@@ -15,7 +15,7 @@ class Renkler:
     RESET = '\033[39m'
 
 colorama.init()
-
+os.system("clear")
 figlet = Figlet(font='slant')
 text = figlet.renderText("Zindan Web")
 formatted_text = f"{Renkler.RED}{text}{Renkler.RESET}"
@@ -37,7 +37,7 @@ main = input("Hangi Seçeneği Seçiyorsunuz: ")
 if main == "1":
     os.system("ls")
     os.system("clear")
-    os.system("Exxen.checker.py")
+    os.system("Exxen_checker.py")
 elif main == "2":
     os.system("ls")
     os.system("clear")
