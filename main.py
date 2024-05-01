@@ -48,7 +48,9 @@ else:
 elif main == "3":
 os.system("ls")
 os.system("clear")
-
+os.system("bdfd_gen.py")
+else:
+    print("geçersiz seçenek")
 elif main == "4":
 
 elif main == "5":
